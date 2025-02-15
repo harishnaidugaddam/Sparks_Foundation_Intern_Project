@@ -2,17 +2,6 @@
 
 This project focuses on predicting the first innings score in IPL (Indian Premier League) matches using machine learning techniques. The dataset used contains detailed match statistics, and various regression models (Linear Regression, Ridge Regression, and Lasso Regression) are implemented to predict scores.
 
-## Table of Contents
-1. [Overview](#overview)
-2. [Dataset](#dataset)
-3. [Methodology](#methodology)
-4. [Models Used](#models-used)
-5. [Results](#results)
-6. [Installation](#installation)
-7. [Usage](#usage)
-8. [Contributing](#contributing)
-9. [License](#license)
-
 ---
 
 ## Overview
